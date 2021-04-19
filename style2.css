@@ -1,0 +1,25 @@
+h1{
+    color:darkorchid
+}
+
+.h13{
+    background-color:rgb(235, 135, 13);
+    display:flex;
+    justify-content:initial;
+}
+.h35{
+    color:#395738;
+}
+
+.column{
+    flex:50%;
+    height:300px;
+    
+}
+.box{
+    background-color:hotpink;
+    display:flex;
+    
+    justify-content:baseline;
+
+}
